@@ -16,7 +16,7 @@ The UK Food Standards Agency plays a crucial role in evaluating and monitoring f
 - Convert latitude, longitude, and RatingValue to numeric values.
 
 # Part 3: Exploratory Analysis
-Answer specific questions to help Eat Safe, Love magazine make decisions on where to focus future articles.
+Answer specific questions to help the food magazine make decisions on where to focus future articles.
 - Which establishments have a hygiene score equal to 20?
 - Which establishments in London have a RatingValue greater than or equal to 4?
 - What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
