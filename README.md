@@ -1,7 +1,7 @@
 # UK Food Standards Agency Database Analysis
 
 # Introduction
-The UK Food Standards Agency plays a crucial role in evaluating and monitoring food establishments across the United Kingdom. As part of our partnership with Eat Safe, Love magazine, we have been tasked with analyzing the district-wide food hygiene ratings data to help the magazine's editors and food critics identify locations of interest and potential article topics.
+The UK Food Standards Agency plays a crucial role in evaluating and monitoring food establishments across the United Kingdom. As part of our partnership with a food magazine, we have been tasked with analyzing the district-wide food hygiene ratings data to help the magazine's editors and food critics identify locations of interest and potential article topics.
 
 # Part 1: Database and Jupyter Notebook Set Up
 - Import the establishments data from the establishments.json file into a MongoDB database named uk_food and a collection named establishments.
